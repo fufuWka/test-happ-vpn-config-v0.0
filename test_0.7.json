@@ -1,0 +1,11 @@
+# profile-title: Test v0.7
+# profile-update-interval: 12
+# Date/Time: 2026-03-28 / 21:41 (UTC+3)
+# Expiration Date: 31.12.2026
+# Description: Full access to all servers. Priority queue and maximum speed.
+# Status: Active
+# Total Servers: 150
+# Instructions: Restart the app to update the configuration
+
+vless://3824f134-a633-4318-9c2a-79887bf811a0@152.53.1.112:7443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#Austria
+vless://9c623ae4-dcfa-45ce-9d94-4c18ba621cf2@188.225.27.46:4443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=klHm-uac99hCv2KSrkyp89p2lHetdJOrR8Dex9pQIlI&fp=randomized&sni=goodcardboard.shop#Canada
